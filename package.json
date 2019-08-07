@@ -1,0 +1,11 @@
+{
+  "name": "now-uglify-js-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^9.3.4",
+    "uglify-js": "^3.6.0"
+  }
+}
